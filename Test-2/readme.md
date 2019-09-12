@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.qipu.com.br/">
-      <img src="https://cdnimg.qipu.com.br/static/website/img/qipu-logo.png" alt="Qipu" width="200px"/>
+      <img src="https://cdnimg.qipu.com.br/static/website/img/qipu-logo-purple.png" alt="Qipu" width="200px"/>
   </a>
 </p>
 
