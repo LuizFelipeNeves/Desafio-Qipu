@@ -14,7 +14,8 @@ ___
     
     O programa deve aceitar valores sempre com dois digitos após a virgula e com até 9 dígitos antes da vírgula.
 
-    Ex: 1,00 => um real1000,54 => mil reais e cinquenta e quatro centavos
+    Ex: 1,00 => um real
+        1000,54 => mil reais e cinquenta e quatro centavos
 
 - ### Requisitos
   - [Node]((https://nodejs.org/en/download/)) > = 8.0
