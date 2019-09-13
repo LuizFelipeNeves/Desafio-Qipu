@@ -2,10 +2,9 @@
   "name": "test-2",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "test": "mocha"
+    "start": "node index.js",
   },
   "keywords": [],
   "author": "Luiz Felipe Neves <luizfelipe2310@gmail.com> (https://github.com/LuizFelipeNeves)",
